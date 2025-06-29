@@ -44,23 +44,23 @@ const Education = () => {
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4  xs:ml-2">
           <Details
-            type="Bachelors in Technology"
-            time="2022-2026"
+            type="Bachelors in Technology (I.T)"
+            time="2021-2025"
             place="Dr. Akhilesh Das Gupta Institute of Professional Studies (ADGIPS)"
             info="Courses included Data Structures and Algorithms, Computer Systems
           Engineering, and Software Engineering ."
           />
           <Details
-            type="CBSE Board 12th Class"
-            time="2022"
-            place="Mount Olivet Sr. Sec. School"
+            type="BSEB Board 12th Class"
+            time="2020"
+            place="Central High School CUM Inter College, Siwan"
             info="Courses includes Science , Arts , Commerce , Sports ,Good Communication and Best Behaviour  "
           />
           <Details
-            type="CBSE Board 10th Class"
-            time="2020"
-            place="Mount Olivet Sr. Sec. School"
-            info="Courses includes Science , Arts , Commerce , Sports ,Good Communication and Best Behaviour  "
+            type="BSEB Board 10th Class"
+            time="2018"
+            place="Ramautar High School, Bhawrajpur"
+            info="Courses includes seconday(IX-X) , Sports ,Good Communication and Best Behaviour  "
           />
         </ul>
       </div>

@@ -42,7 +42,7 @@ const Contact = () => {
       {" "}
       <Head>
         <title>Porfolio | About Page</title>
-        <meta name="description" content="Piyush Varshney Portfolio" />
+        <meta name="description" content="Anish Sharma Portfolio" />
       </Head>
       <TransitionEffect />
       <main className="flex w-full flex-col items-center justify-center dark:text-light">
@@ -77,7 +77,7 @@ const Contact = () => {
                       href="javascript:void(0)"
                       class="dark:text-white text-dark text-sm ml-4"
                     >
-                      varshneypiyush2004@gmail.com{" "}
+                      anishsharma2779@gmail.com{" "}
                     </a>
                   </li>
                   <li class="flex items-center">
@@ -98,13 +98,13 @@ const Contact = () => {
                       href="javascript:void(0)"
                       class="dark:text-white text-dark text-sm ml-4"
                     >
-                      +91 9312080589
+                      +91 7050705429
                     </a>
                   </li>
                 </ul>
                 <nav className="flex  flex-wrap items-center mt-6">
                   <motion.a
-                    href="https://x.com/PiyushVarshney_"
+                    href="https://x.com/AnishSharm86060"
                     target={"_blank"}
                     whileHover={{ y: -2 }}
                     whileTap={{ scale: 0.8 }}
@@ -113,7 +113,7 @@ const Contact = () => {
                     <TwitterIcon />
                   </motion.a>
                   <motion.a
-                    href="https://github.com/varshneypiyush19"
+                    href="https://github.com/Anish2025"
                     target={"_blank"}
                     whileHover={{ y: -2 }}
                     whileTap={{ scale: 0.8 }}
@@ -122,7 +122,7 @@ const Contact = () => {
                     <GithubIcon />
                   </motion.a>
                   <motion.a
-                    href="https://www.linkedin.com/in/piyushvarshney19/"
+                    href="https://www.linkedin.com/in/anish-kumar-sharma-84932522a/"
                     target={"_blank"}
                     whileHover={{ y: -2 }}
                     whileTap={{ scale: 0.8 }}

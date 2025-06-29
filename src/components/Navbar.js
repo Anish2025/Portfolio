@@ -95,7 +95,7 @@ const Navbar = () => {
         </nav>
         <nav className="flex justify-center flex-wrap items-center">
           <motion.a
-            href="https://x.com/PiyushVarshney_"
+            href="https://x.com/AnishSharm86060"
             target={"_blank"}
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.8 }}
@@ -104,7 +104,7 @@ const Navbar = () => {
             <TwitterIcon />
           </motion.a>
           <motion.a
-            href="https://github.com/varshneypiyush19"
+            href="https://github.com/Anish2025"
             target={"_blank"}
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.8 }}
@@ -113,7 +113,7 @@ const Navbar = () => {
             <GithubIcon />
           </motion.a>
           <motion.a
-            href="https://www.linkedin.com/in/piyushvarshney19/"
+            href="https://www.linkedin.com/in/anish-kumar-sharma-84932522a/"
             target={"_blank"}
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.8 }}
@@ -122,7 +122,9 @@ const Navbar = () => {
             <LinkedInIcon />
           </motion.a>
           <motion.a
-            href="https://wa.me/9312080589?text=Hey Piyush! , I visited your portfolio and I would like to connect with you."
+            // href="wa.link/anttl7?text=Hey Anish! , I visited your portfolio and I would like to connect with you."
+                          href="https://wa.link/anttl7?text=Hey%20Anish!%20I%20visited%20your%20portfolio%20and%20I%20would%20like%20to%20connect%20with%20you."
+
             target={"_blank"}
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.8 }}
@@ -215,7 +217,7 @@ const Navbar = () => {
           </nav>
           <nav className="flex justify-center flex-wrap items-center mt-4">
             <motion.a
-              href="https://x.com/PiyushVarshney_"
+              href="https://x.com/AnishSharm86060"
               target={"_blank"}
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.8 }}
@@ -224,7 +226,7 @@ const Navbar = () => {
               <TwitterIcon />
             </motion.a>
             <motion.a
-              href="https://github.com/varshneypiyush19"
+              href="https://github.com/Anish2025"
               target={"_blank"}
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.8 }}
@@ -233,7 +235,7 @@ const Navbar = () => {
               <GithubIcon />
             </motion.a>
             <motion.a
-              href="https://www.linkedin.com/in/piyushvarshney19/"
+              href="https://www.linkedin.com/in/anish-kumar-sharma-84932522a/"
               target={"_blank"}
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.8 }}
@@ -252,7 +254,8 @@ const Navbar = () => {
               <PinterestIcon />
             </motion.a> */}
             <motion.a
-              href="https://wa.me/9312080589?text=Hey Piyush! , I visited your portfolio and I would like to connect with you."
+              href="https://wa.link/anttl7?text=Hey%20Anish!%20I%20visited%20your%20portfolio%20and%20I%20would%20like%20to%20connect%20with%20you."
+              // href="https://wa.link/anttl7?text=Hey%20Anish!%20I%20visited%20your%20portfolio%20and%20I%20would%20like%20to%20connect%20with%20you."
               target={"_blank"}
               whileHover={{ y: -2 }}
               whileTap={{ scale: 0.8 }}

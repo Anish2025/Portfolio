@@ -50,9 +50,9 @@ const about = () => {
                 About Me
               </h2>
               <p className="font-medium">
-                Hi, I&apos;m Piyush Varshney , a web developer and aspiring
+                Hi, I&apos;m Anish Kumar Sharma , a web developer and aspiring
                 software developer with a passion for creating beautiful,
-                functional, and user-centered digital experiences. With 6 months
+                functional, and user-centered digital experiences. With 3 months
                 of experience in the field. I am always looking for new and
                 innovative ways to bring my clients visions to life.
               </p>
@@ -91,16 +91,16 @@ const about = () => {
               </div>
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumbers value={10} />+
+                  <AnimatedNumbers value={400} />+
                 </span>
 
                 <h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm">
-                  Hackathons Participated
+                  DSA Questions Solved
                 </h2>
               </div>
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumbers value={6} />+
+                  <AnimatedNumbers value={3} />+
                 </span>
 
                 <h2 className="text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm">

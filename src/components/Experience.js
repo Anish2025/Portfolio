@@ -52,10 +52,13 @@ const Experience = () => {
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
             position="Web development Intern"
-            company="GAOTek"
-            time="Sep-Nov"
-            address=" New York"
-            work="Enhanced website functionality by developing and integrating custom WordPress plugins. Built scalable web applications using React.js, adhering to industry standards.Collaborated with the team to troubleshoot and resolve technical issues, ensuring project timelines were met. Documented processes and best practices to streamline future development workflows."
+            company="Nextin Cloud Pvt. Ltd."
+            time="Feb-May"
+            address="Gurugram, Haryana"
+            work="Engineered the web app using the MERN(Recat.js, Express.js, Node.js and MongoDB) , supporting user
+ registration, skill listings, and search capabilities. Implemented frontend interfaces integrated with RESTful APIs, enhancing data consistency and smooth user
+ experience. Debugged and optimized application logic, reducing response time by 30% and improving system reliability. Collaborated with a 4-member agile team, contributing to sprint planning, code reviews, and weekly product
+ updates"
           />
           {/* <Details
             position="Frontend Intern"
@@ -64,13 +67,13 @@ const Experience = () => {
             address=" Mountain View, CA"
             work="Working with a team passionate building a website for college students, making a better enivironment dfor students with solves their all problem and help in visualization of their skills in earning."
           /> */}
-          <Details
+          {/* <Details
             position="SDE Intern"
             company="WIC"
             time="March-Aug"
             address="Greater Noida"
             work="Designed and developed interactive web components using Bootstrap, improving user engagement. Utilized Git for version control to maintain and update the codebase efficiently. Participated in cross-functional team meetings to ensure alignment with project goals."
-          />
+          /> */}
           {/* <Details
             position="Frontend Intern"
             company="Thought Bistro"

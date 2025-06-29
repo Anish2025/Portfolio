@@ -23,7 +23,7 @@ const Logo = () => {
             transition: { duration: 1, repeat: Infinity },
           }}
         >
-          PV
+          AS
         </MotionLink>
       </div>
       <div className="flex items-center justify-center mt-4 pl-4 text-3xl italic xl:hidden lg:flex ">

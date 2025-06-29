@@ -122,7 +122,7 @@ const Projects = () => {
     <>
       <Head>
         <title>Porfolio | Projects Page</title>
-        <meta name="description" content="Piyush Varshney Portfolio" />
+        <meta name="description" content="Anish Sharma Portfolio" />
       </Head>
       <TransitionEffect />
       <main className="w-full mb-16 flex flex-col items-center justify-center dark:text-light">
@@ -142,79 +142,76 @@ const Projects = () => {
                           Integrated a functional contact form with Formspring for seamless user communication.
       "
                 link="/"
-                github="https://github.com/varshneypiyush19"
+                github="https://github.com/Anish2025"
                 type="Featured Project"
               />
             </div>
             <div className="col-span-12">
               <FeaturedProject
-                title="Frienz"
+                title="CodeFlow"
                 img={FeaturedProject4}
-                summary="Built a real-time chat app with Socket.IO for instant messaging and a responsive React front-end.
-                         Developed a scalable Node.js/Express.js back-end and integrated MongoDB for secure user data and chat storage.
-                         Deployed the front-end on Vercel and back-end on Render, ensuring optimized performance and seamless operation."
-                link="https://frienz.vercel.app"
-                github="https://github.com/varshneypiyush19/Chat-app"
+                summary="CodeFlow is a collaborative coding platform designed to streamline the coding process for teams and individuals. It provides a seamless environment to write, review, and deploy code with built-in features for version control, code reviews, and continuous integration."
+                link="https://code-flow-delta.vercel.app/"
+                github="https://github.com/Anish2025/Code-Flow"
                 type="Featured Project"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Travel List"
+                title="CapHub"
                 img={Project1}
-                link="https://travel-list-by-piyush.netlify.app/"
-                github="https://github.com/varshneypiyush19"
+
+                link="https://cap-hub.vercel.app/"
+                github="https://github.com/Anish2025/CapHub"
                 type=" Project"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Pizza Menu"
+                title="Job Portal"
                 img={Project2}
-                link="https://pizza-menu-by-piyush.netlify.app/"
-                github="https://github.com/varshneypiyush19"
+                link="https://job-portal-jade-eight.vercel.app/"
+                github="https://github.com/Anish2025/Job-Portal"
                 type="Project"
               />
             </div>
             <div className="col-span-12">
               <FeaturedProject
-                title="Thought Bistro"
+                title="SkillBazar"
                 img={FeaturedProject1}
-                summary="Built a lead generation platform with an intuitive and responsive interface to improve business outreach.
-                          Integrated Google Sheets as a backend to collect and manage user data effectively.
-                          Role: Full Stack Developer, handling both front-end and back-end implementation.
+                summary="SkillBazar is a full-stack website for students who want to learn programming and instructors who teach it. It provides a collaborative space where learners and teachers can connect and grow together.
                           "
-                link="https://thethoughtbistro-git-main-piyush-varshneys-projects.vercel.app/"
-                github="https://github.com/varshneypiyush19"
+                link="https://skillbazar.onrender.com/"
+                github="https://github.com/Anish2025/SkillBazar"
                 type="Featured Project"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Split Bill"
+                title="Weather App"
                 img={Project3}
-                link="https://eat-n-split-by-piyush.netlify.app/"
-                github="https://github.com/varshneypiyush19"
+                link="https://weather-app-gold-theta.vercel.app/"
+                github="https://github.com/Anish2025/Weather-App"
                 type="Project"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
               <Project
-                title="Amazon Clone"
+                title="Web-based-Password-Generator"
                 img={Project4}
-                link="https://varshneypiyush19.github.io/Amazon-Clone/"
-                github="https://github.com/varshneypiyush19"
+                link="https://web-based-password-generator-anish-kumar-sharmas-projects.vercel.app/"
+                github="https://github.com/Anish2025/Web-based-Password-Generator"
                 type="Project"
               />
             </div>
             <div className="col-span-12">
               <FeaturedProject
-                title="Youtube Clone"
+                title="RazorPay-Clone"
                 img={FeaturedProject3}
-                summary="A Youtube Clone website made using HTML, CSS, Javascript. 
+                summary="Built a web application that closely mimicked design of the popular Indian payment gateway, Razor Pay, using HTML & Tailwind CSS. This project helped me improve my skills in web development and showcased my ability to replicate a well- known platform, demonstrating my attention to detail. 
                            "
-                link="https://varshneypiyush19.github.io/Youtube-Clone/"
-                github="https://github.com/varshneypiyush19"
+                link="https://anish2025.github.io/RazorPay-Clone/"
+                github="https://github.com/Anish2025/RazorPay-Clone"
                 type="Featured Project"
               />
             </div>
