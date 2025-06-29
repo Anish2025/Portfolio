@@ -73,8 +73,8 @@ Check it out live: [portfolio-flax-theta-19.vercel.app](https://portfolio-flax-t
 
 ## 🏫 Education
 
-- **M.Sc. Computer Science:** Stanford University
-- **B.Sc. Computer Science:** MIT
+- **B.Tech. Information Technology:** ADGIPS, New Delhi
+- **12th PCM:** Central Public School, Andar
 
 ---
 
